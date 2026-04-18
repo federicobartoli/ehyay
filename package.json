@@ -1,6 +1,6 @@
 {
   "name": "ehyay",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The AI coding agent that refuses to code for you. It sends you back to the docs.",
   "type": "module",
   "bin": {
